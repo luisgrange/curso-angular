@@ -27,6 +27,7 @@ html{
 }
 
 body{
+    display: flexbox;
     height: 100vh; /*pega da onde começa até onde termina a tela*/
     background: var(--background);
 }

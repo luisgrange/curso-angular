@@ -4,7 +4,7 @@
     grid-template-rows: 11.4rem 1fr;
 
     grid-template-areas: 
-    'header hearder'
+    'header header'
     'left right'
 }
 
@@ -24,8 +24,8 @@ main{
     align-items: center;
 }
 
-main .conatiner{
-    width: min(36.3rem 100%);
+main .continer{
+    width: min(36.3rem, 100%);
 }
 
 main h2{
